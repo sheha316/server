@@ -1,75 +1,46 @@
-[00:28:55] [Server thread/INFO]: [sheha316: Set the time to 1000]
-[00:59:03] [Server thread/INFO]: [sheha316: Set own game mode to Creative Mode]
-[01:00:34] [Server thread/INFO]: [sheha316: Set own game mode to Survival Mode]
-[01:03:15] [Server thread/INFO]: sheha316 has made the advancement [Suit Up]
-[01:22:06] [Server thread/WARN]: sheha316 was kicked for floating too long!
-[01:22:06] [Server thread/INFO]: sheha316 lost connection: Flying is not enabled on this server
-[01:22:06] [Server thread/INFO]: sheha316 left the game
-[01:22:17] [User Authenticator #5/INFO]: UUID of player sheha316 is 14418269-a7e6-4aa0-9bde-ccc8ddb137dd
-[01:22:17] [Server thread/INFO]: sheha316[/25.74.152.73:62230] logged in with entity id 47372 at (76.29999997466803, 72.1, 222.29999997466803)
-[01:22:17] [Server thread/INFO]: sheha316 joined the game
-[01:34:07] [Server thread/INFO]: sheha316 lost connection: Disconnected
-[01:34:07] [Server thread/INFO]: sheha316 left the game
-[08:45:25] [User Authenticator #6/INFO]: UUID of player sheha316 is 14418269-a7e6-4aa0-9bde-ccc8ddb137dd
-[08:45:25] [Server thread/INFO]: sheha316[/25.74.152.73:64805] logged in with entity id 48933 at (78.78667228840256, 71.0, 217.5551572206358)
-[08:45:25] [Server thread/INFO]: sheha316 joined the game
-[09:56:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
-[10:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
-[10:34:18] [Server thread/INFO]: sheha316 has made the advancement [Local Brewery]
-[10:55:04] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/75597, l='world', x=81.36, y=71.00, z=201.29]
-[11:13:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/78062, l='world', x=79.63, y=71.00, z=201.42]
-[11:26:20] [Server thread/INFO]: sheha316 has made the advancement [Diamonds!]
-[11:54:00] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/83663, l='world', x=85.69, y=71.00, z=200.27]
-[12:08:47] [Server thread/INFO]: sheha316 has made the advancement [Ice Bucket Challenge]
-[12:34:12] [Server thread/WARN]: Fetching packet for removed entity avd['Skeleton'/89261, l='world', x=69.50, y=55.85, z=159.50]
-[12:44:03] [Server thread/INFO]: [sheha316: Set own game mode to Creative Mode]
-[12:51:53] [Server thread/WARN]: sheha316 moved too quickly! -5.571396953964694,0.0,8.405611359602062
-[12:56:53] [Server thread/WARN]: sheha316 moved too quickly! -0.9955530010959137,0.0,-10.547895472747314
-[12:56:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
-[12:57:05] [Server thread/WARN]: Skipping Entity with id 
-[13:01:55] [Server thread/WARN]: sheha316 moved too quickly! -3.863682251422233,0.0,-10.17033567615863
-[13:06:55] [Server thread/WARN]: sheha316 moved too quickly! 6.2196105679934135,0.0,-8.870646471285454
-[13:11:55] [Server thread/WARN]: sheha316 moved too quickly! 2.311287798081594,0.0,10.640680629887243
-[13:16:21] [Server thread/INFO]: [sheha316: Teleported sheha316 to sheha316]
-[13:16:42] [Server thread/INFO]: [sheha316: Teleported sheha316 to 900.5, 111.0, 326.5]
-[13:16:42] [Server thread/WARN]: sheha316 moved too quickly! -438.03460168378297,-0.49363801665340645,-0.1840863083481281
-[13:16:51] [Server thread/INFO]: [sheha316: Teleported sheha316 to 700.5, 111.0, 326.5]
-[13:16:51] [Server thread/WARN]: sheha316 moved too quickly! -200.0,0.0,0.0
-[13:16:57] [Server thread/INFO]: [sheha316: Teleported sheha316 to 500.5, 111.0, 326.5]
-[13:16:57] [Server thread/WARN]: sheha316 moved too quickly! -190.44415661882363,0.0,3.762471143958237
-[13:17:02] [Server thread/INFO]: [sheha316: Teleported sheha316 to 200.5, 111.0, 326.5]
-[13:17:41] [Server thread/INFO]: [sheha316: Teleported sheha316 to 600.5, 111.0, 626.5]
-[13:17:41] [Server thread/WARN]: sheha316 moved too quickly! 483.5949562418343,33.0068629940498,358.3441408861318
-[13:17:41] [Server thread/WARN]: sheha316 moved too quickly! 483.5949562418343,33.0068629940498,358.3441408861318
-[13:17:52] [Server thread/INFO]: [sheha316: Teleported sheha316 to 700.5, 111.0, 926.5]
-[13:18:14] [Server thread/INFO]: [sheha316: Teleported sheha316 to 200.5, 111.0, 326.5]
-[13:18:14] [Server thread/WARN]: sheha316 moved too quickly! -591.4883707017196,0.3687014546508749,-973.741026798858
-[13:22:06] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/144734, l='world', x=79.09, y=71.00, z=201.07]
-[13:22:36] [Server thread/INFO]: [sheha316: Set own game mode to Survival Mode]
-[13:24:59] [Server thread/INFO]: [sheha316: Set own game mode to Creative Mode]
-[13:36:32] [Server thread/INFO]: [sheha316: Set own game mode to Adventure Mode]
-[13:36:33] [Server thread/INFO]: sheha316 lost connection: Disconnected
-[13:36:33] [Server thread/INFO]: sheha316 left the game
-[14:00:49] [User Authenticator #7/INFO]: UUID of player sheha316 is 14418269-a7e6-4aa0-9bde-ccc8ddb137dd
-[14:00:50] [Server thread/INFO]: sheha316[/25.74.152.73:63683] logged in with entity id 146571 at (80.24410457955578, 71.0, 218.73428858735002)
-[14:00:50] [Server thread/INFO]: sheha316 joined the game
-[14:01:00] [Server thread/INFO]: [sheha316: Set own game mode to Creative Mode]
-[14:26:03] [Server thread/INFO]: [sheha316: Set own game mode to Adventure Mode]
-[14:26:33] [Server thread/INFO]: [sheha316: Set own game mode to Creative Mode]
-[14:34:01] [Server thread/INFO]: [sheha316: Set own game mode to Adventure Mode]
-[14:34:30] [Server thread/INFO]: [sheha316: Set own game mode to Survival Mode]
-[14:40:32] [Server thread/INFO]: sheha316 lost connection: Disconnected
-[14:40:32] [Server thread/INFO]: sheha316 left the game
-[14:42:13] [Server thread/INFO]: Stopping the server
-[14:42:13] [Server thread/INFO]: Stopping server
-[14:42:13] [Server thread/INFO]: Saving players
-[14:42:13] [Server thread/INFO]: Saving worlds
-[14:42:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[14:42:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:42:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[14:42:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:42:13] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[14:42:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:42:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:42:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:42:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28ago2019 23:17:18.095] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 28.0.49, --fml.mcpVersion, 20190719.225934, --fml.mcVersion, 1.14.4, --fml.forgeGroup, net.minecraftforge, nogui]
+[28ago2019 23:17:18.118] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 3.2.0+60+b86c1d4 starting: java version 1.8.0_221 by Oracle Corporation
+[28ago2019 23:17:18.452] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[28ago2019 23:17:19.508] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[28ago2019 23:17:30.286] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28ago2019 23:17:30.307] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28ago2019 23:17:30.326] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28ago2019 23:17:30.332] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[28ago2019 23:17:30.344] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[28ago2019 23:17:30.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.14.4
+[28ago2019 23:17:30.865] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 28.0.49, for MC 1.14.4 with MCP 20190719.225934
+[28ago2019 23:17:30.883] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v28.0.49 Initialized
+[28ago2019 23:17:31.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28ago2019 23:17:31.724] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[28ago2019 23:17:31.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28ago2019 23:17:31.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Generating keypair
+[28ago2019 23:17:31.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 25.74.152.73:25565
+[28ago2019 23:17:32.010] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using default channel type
+[28ago2019 23:17:33.376] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA_OUTDATED Current: 28.0.49 Target: 28.0.65
+[28ago2019 23:17:33.823] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[28ago2019 23:17:33.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28ago2019 23:17:34.213] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Inventory-Sorter-Mod-1.14.4.jar, forge-1.14.4-28.0.49-universal.jar, Default
+[28ago2019 23:17:34.603] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[28ago2019 23:17:34.997] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 811 advancements
+[28ago2019 23:17:35.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28ago2019 23:17:36.184] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[28ago2019 23:17:36.184] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[28ago2019 23:17:36.335] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[28ago2019 23:17:36.635] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1387 ms
+[28ago2019 23:17:36.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.852s)! For help, type "help"
+[28ago2019 23:17:37.161] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28ago2019 23:17:37.162] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28ago2019 23:18:40.765] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player sheha316 is 14418269-a7e6-4aa0-9bde-ccc8ddb137dd
+[28ago2019 23:18:42.419] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: sheha316[/25.74.152.73:56609] logged in with entity id 302 at (81.6478571010109, 71.0, 219.93675128652728)
+[28ago2019 23:18:42.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sheha316 joined the game
+[28ago2019 23:18:42.463] [Netty Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.ModIdArgument@44006640 (class net.minecraftforge.server.command.ModIdArgument) - will not be sent to client!
+[28ago2019 23:18:42.467] [Netty Server IO #2/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize net.minecraftforge.server.command.EnumArgument@70b9b1b7 (class net.minecraftforge.server.command.EnumArgument) - will not be sent to client!
+[28ago2019 23:19:38.967] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: sheha316 lost connection: Disconnected
+[28ago2019 23:19:38.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sheha316 left the game
+[28ago2019 23:19:45.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[28ago2019 23:19:45.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28ago2019 23:19:45.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28ago2019 23:19:45.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28ago2019 23:19:45.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'world'/minecraft:overworld
+[28ago2019 23:19:46.457] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28ago2019 23:19:46.511] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
